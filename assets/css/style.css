@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
-{
+* {
     margin: 0;
     padding: 0;
     border: none;
@@ -123,4 +123,12 @@ menu a:hover {
     width: 33%;
     margin: 0 auto;
     background-color: green;
+}
+.left-about-heading {
+    width: 60%;
+    float:right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+
 }
